@@ -1,0 +1,264 @@
+{
+  "listemployee": [
+    {
+      "name": "Kien",
+      "code": "1",
+      "gender": "nam",
+      "religion": "ton giao khong",
+      "nation": "kinh",
+      "phone": "0326777817",
+      "email": "lck@gmail.com",
+      "birthdate": "21/02/2000",
+      "province": "Nam Dinh",
+      "district": "Giao Thuy",
+      "commune": "Giao Yen",
+      "placeofbirth": "Noi sinh Nam Dinh",
+      "peopleid": "036099003066",
+      "issuedby": "Cuc canh sat dan cu Tinh Nam Dinh",
+      "daterange": "Nam Dinh",
+      "team": "frontend",
+      "salary": "100000000",
+      "position": "leader",
+      "address": "165 Cau Giay"
+    },
+    {
+      "name": "Kien",
+      "code": "1",
+      "gender": "nam",
+      "religion": "ton giao khong",
+      "nation": "kinh",
+      "phone": "0326777817",
+      "email": "lck@gmail.com",
+      "birthdate": "21/02/2000",
+      "province": "Nam Dinh",
+      "district": "Giao Thuy",
+      "commune": "Giao Yen",
+      "placeofbirth": "Noi sinh Nam Dinh",
+      "peopleid": "036099003066",
+      "issuedby": "Cuc canh sat dan cu Tinh Nam Dinh",
+      "daterange": "Nam Dinh",
+      "team": "frontend",
+      "salary": "100000000",
+      "position": "leader",
+      "address": "165 Cau Giay"
+    }
+  ],
+  "location": {
+    "provinces": [
+      {
+        "name": "Huldafield",
+        "id": "1"
+      },
+      {
+        "name": "New Tyreseton",
+        "id": "2"
+      },
+      {
+        "name": "Effertztown",
+        "id": "3"
+      },
+      {
+        "name": "South Addie",
+        "id": "4"
+      },
+      {
+        "name": "Trevorborough",
+        "id": "5"
+      },
+      {
+        "name": "Johnsworth",
+        "id": "6"
+      },
+      {
+        "name": "South Shayne",
+        "id": "7"
+      },
+      {
+        "name": "Ethylhaven",
+        "id": "8"
+      },
+      {
+        "name": "Lake Helga",
+        "id": "9"
+      },
+      {
+        "name": "Mayertbury",
+        "id": "10"
+      }
+    ],
+    "districts": [
+      {
+        "name": "Scottsdale",
+        "id": "1"
+      },
+      {
+        "name": "Bellevue",
+        "id": "2"
+      },
+      {
+        "name": "Summerville",
+        "id": "3"
+      },
+      {
+        "name": "Miami",
+        "id": "4"
+      },
+      {
+        "name": "East Providence",
+        "id": "5"
+      },
+      {
+        "name": "Thousand Oaks",
+        "id": "6"
+      },
+      {
+        "name": "Elk Grove",
+        "id": "7"
+      },
+      {
+        "name": "Fresno",
+        "id": "8"
+      },
+      {
+        "name": "Burbank",
+        "id": "9"
+      },
+      {
+        "name": "Huntington Park",
+        "id": "10"
+      }
+    ],
+    "communes": [
+      {
+        "name": "Saint Martin",
+        "id": "1"
+      },
+      {
+        "name": "Kazakhstan",
+        "id": "2"
+      },
+      {
+        "name": "Togo",
+        "id": "3"
+      },
+      {
+        "name": "Tonga",
+        "id": "4"
+      },
+      {
+        "name": "Gabon",
+        "id": "5"
+      },
+      {
+        "name": "Western Sahara",
+        "id": "6"
+      },
+      {
+        "name": "Zambia",
+        "id": "7"
+      },
+      {
+        "name": "Bouvet Island (Bouvetoya)",
+        "id": "8"
+      },
+      {
+        "name": "Costa Rica",
+        "id": "9"
+      },
+      {
+        "name": "New Caledonia",
+        "id": "10"
+      }
+    ]
+  },
+  "otherFeature": {
+    "Team": [
+      {
+        "id": 1,
+        "name": "Back-End"
+      },
+      {
+        "id": 2,
+        "name": "Front-End"
+      },
+      {
+        "id": 3,
+        "name": "Design"
+      }
+    ],
+    "Position": [
+      {
+        "id": 1,
+        "name": "Thực tập sinh"
+      },
+      {
+        "id": 2,
+        "name": "Nhân viên"
+      },
+      {
+        "id": 3,
+        "name": "Kế toán"
+      }
+    ],
+    "Gender": [
+      {
+        "id": 1,
+        "gender": "Nam"
+      },
+      {
+        "id": 2,
+        "gender": "Nữ"
+      },
+      {
+        "id": 3,
+        "gender": "Khác"
+      }
+    ],
+    "DegreeField": [
+      {
+        "id": 1,
+        "fieldName": "Tin học"
+      },
+      {
+        "id": 2,
+        "fieldName": "Ngoại Ngữ"
+      },
+      {
+        "id": 3,
+        "fieldName": "Dịch vụ"
+      }
+    ],
+    "relationship": [
+      {
+        "id": 1,
+        "relationship": "Bố"
+      },
+      {
+        "id": 2,
+        "relationship": "Mẹ"
+      },
+      {
+        "id": 3,
+        "relationship": "Anh trai"
+      },
+      {
+        "id": 4,
+        "relationship": "Chị gái"
+      },
+      {
+        "id": 5,
+        "relationship": "Em"
+      }
+    ],
+    "placeIssue": [
+      {
+        "id": 1,
+        "place": "Cục Cảnh sát DKQL cư trú và DLQG về dân cư"
+      },
+      {
+        "id": 1,
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      }
+    ]
+  }
+}
